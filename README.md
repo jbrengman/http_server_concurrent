@@ -1,0 +1,1 @@
+This is a very simple HTTP server that accepts only GET requests and allows concurrent connections.
